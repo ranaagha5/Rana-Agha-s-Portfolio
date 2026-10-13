@@ -94,3 +94,6 @@
 .relative.w-\[340px\].h-\[340px\].sm\:w-\[420px\].sm\:h-\[420px\].flex.items-center.justify-center {
     margin-top: -79px;
 }
+.lg\:col-span-5.relative.flex.justify-center.items-center.pt-20 {
+    margin-top: -79px;
+}
